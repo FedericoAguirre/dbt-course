@@ -10,6 +10,13 @@ This is a quick starter DBT course
 dbt run --full-refresh
 ```
 
+## Running a single model
+
+```bash
+dbt run --select customers
+```
+
 ## Important links
 
 [DBT project folder structure](https://docs.getdbt.com/best-practices/how-we-structure/1-guide-overview)
+[DBT custom aliases](https://docs.getdbt.com/docs/build/custom-aliases)
