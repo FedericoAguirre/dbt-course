@@ -9,3 +9,7 @@ This is a quick starter DBT course
 ```bash
 dbt run --full-refresh
 ```
+
+## Important links
+
+[DBT project folder structure](https://docs.getdbt.com/best-practices/how-we-structure/1-guide-overview)
